@@ -250,7 +250,7 @@ const Home = () => {
                   }`}
                 >
                   <img
-                    src="/me.png"
+                    src="/Coding.gif"
                     alt="Shahil"
                     className="rounded-3xl shadow-xl transition-all duration-500 hover:scale-105"
                   />
