@@ -93,7 +93,7 @@ const SocialLink = memo(({ icon: Icon, link }) => (
 const WORDS = [
   "B.Tech CSE Student",
   "React Developer",
-  "Python & Java Programmer",
+  "Python",
   "AI/ML Enthusiast",
 ];
 const TECH_STACK = ["Python", "Java", "React", "Node.js", "Tailwind", "Flask"];
@@ -187,7 +187,7 @@ const Home = () => {
                   data-aos="fade-up"
                   data-aos-delay="1000"
                 >
-                  I’m a third-year B.Tech CSE student with a passion for AI, ML,
+                  I’m a Fourth-year B.Tech CSE student with a passion for AI, ML,
                   and modern web development — ready to build impactful solutions.
                 </p>
 
